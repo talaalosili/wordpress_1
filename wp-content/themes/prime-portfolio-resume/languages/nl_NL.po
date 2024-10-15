@@ -1,0 +1,872 @@
+# Copyright (C) 2024 themeignite
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Prime Portfolio Resume 1.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/prime-portfolio-resume\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-08-24T11:31:56+05:30\n"
+"PO-Revision-Date: 2024-08-24 14:48+0530\n"
+"X-Generator: Poedit 2.3\n"
+"X-Domain: prime-portfolio-resume\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: nl_NL\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Prime Portfolio Resume"
+msgstr "Prime Portfolio CV"
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.themeignite.com/products/free-portfolio-wordpress-theme"
+msgstr "https://www.themeignite.com/nl/producten/gratis-portfolio-wordpress-thema"
+
+#. Description of the theme
+#: style.css
+msgid ""
+"Prime Portfolio Resume is a professional and modern WordPress theme crafted to showcase portfolios with "
+"style and functionality. Its sleek design and customizable layout cater to a diverse range of "
+"creatives, including artists, photographers, designers, and developers. Visually, the theme offers a "
+"modern and minimalist aesthetic, ensuring that portfolios stand out without distraction. Its responsive "
+"design guarantees seamless viewing across devices, from desktops to smartphones, optimizing user "
+"experience and accessibility. Ideal for freelancers and professionals alike, the theme serves as a "
+"powerful tool to present work samples, achievements, and career highlights effectively. It supports "
+"various portfolio types, including graphic design, web design, photography, illustration, and more, "
+"allowing users to customize layouts to best highlight their skills and projects. Key features include a "
+"portfolio showcase with grid or masonry layouts, portfolio examples that can be easily added and "
+"updated, and a portfolio builder for intuitive customization without coding knowledge. This empowers "
+"users to create personalized portfolios that reflect their unique style and expertise. For those in "
+"creative industries like marketing, content creation, or filmmaking, the theme offers specialized "
+"layouts tailored to showcase multimedia content such as videos, animations, or interactive projects. "
+"This versatility ensures that every aspect of a professionals portfolio can be highlighted effectively."
+msgstr ""
+"Prime Portfolio CV is een professioneel en modern WordPress-thema, ontworpen om portfolio's stijlvol en "
+"functioneel te tonen. Het strakke ontwerp en de aanpasbare lay-out zijn geschikt voor een breed scala "
+"aan creatievelingen, waaronder kunstenaars, fotografen, ontwerpers en ontwikkelaars. Visueel biedt het "
+"thema een modern en minimalistisch esthetiek, waardoor portfolio's opvallen zonder afleiding. Het "
+"responsieve ontwerp garandeert een naadloze weergave op verschillende apparaten, van desktops tot "
+"smartphones, en optimaliseert de gebruikerservaring en toegankelijkheid. Ideaal voor freelancers en "
+"professionals, het thema is een krachtig hulpmiddel om werkvoorbeelden, prestaties en carrièremijlpalen "
+"effectief te presenteren. Het ondersteunt verschillende soorten portfolio's, zoals grafisch ontwerp, "
+"webdesign, fotografie, illustratie en meer, waardoor gebruikers de lay-outs kunnen aanpassen om hun "
+"vaardigheden en projecten optimaal te presenteren. Belangrijke functies zijn onder meer een "
+"portfolioweergave met raster- of metselwerklay-outs, portfolio-voorbeelden die eenvoudig kunnen worden "
+"toegevoegd en bijgewerkt, en een portfoliobouwer voor intuïtieve aanpassing zonder programmeerkennis. "
+"Dit stelt gebruikers in staat om gepersonaliseerde portfolio's te creëren die hun unieke stijl en "
+"expertise weerspiegelen. Voor mensen in creatieve sectoren zoals marketing, contentcreatie of "
+"filmmaken, biedt het thema gespecialiseerde lay-outs die zijn afgestemd op het tonen van "
+"multimediacontent zoals video's, animaties of interactieve projecten. Deze veelzijdigheid zorgt ervoor "
+"dat elk aspect van een professionele portfolio effectief kan worden benadrukt."
+
+#. Author of the theme
+#: style.css
+msgid "themeignite"
+msgstr "themeignite"
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.themeignite.com"
+msgstr "https://www.themeignite.com"
+
+#: 404.php:21 inc/customizer.php:1008
+msgid "404"
+msgstr "404"
+
+#: 404.php:22 inc/customizer.php:1021
+msgid "Sorry, that page can't be found!"
+msgstr "Sorry, die pagina kan niet worden gevonden!"
+
+#: 404.php:25
+msgid "Homepage"
+msgstr "Startpagina"
+
+#: comments.php:29
+msgid "Comments"
+msgstr "Reacties"
+
+#: comments.php:42
+msgid "Comment navigation"
+msgstr "Reactienavigatie"
+
+#: comments.php:44
+msgid "Older Comments"
+msgstr "Oudere Reacties"
+
+#: comments.php:45
+msgid "Newer Comments"
+msgstr "Nieuwere Reacties"
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: footer.php:72 sidebar.php:32
+msgid "Archive List"
+msgstr "Archieflijst"
+
+#: footer.php:79 sidebar.php:39
+msgid "Recent Posts"
+msgstr "Recente Berichten"
+
+#: footer.php:97 sidebar.php:57
+msgid "Categories"
+msgstr "Categorieën"
+
+#: footer.php:109
+msgid "Tags"
+msgstr "Tags"
+
+#: functions.php:63
+msgid "Primary"
+msgstr "Primair"
+
+#: functions.php:130
+msgid "Right Sidebar"
+msgstr "Rechter Zijbalk"
+
+#: functions.php:139
+msgid "Footer One"
+msgstr "Voettekst Een"
+
+#: functions.php:149
+msgid "Footer Two"
+msgstr "Voettekst Twee"
+
+#: functions.php:159
+msgid "Footer Three"
+msgstr "Voettekst Drie"
+
+#: functions.php:169
+msgid "Footer Four"
+msgstr "Voettekst Vier"
+
+#: functions.php:260 inc/getting-started/getting-started.php:15 inc/getting-started/getting-started.php:16
+#: inc/getting-started/getting-started.php:64
+msgid "Getting Started"
+msgstr "Aan de Slag"
+
+#: functions.php:262
+msgid "Free Documentation"
+msgstr "Gratis Documentatie"
+
+#: header.php:37
+msgid "Skip to content (Press Enter)"
+msgstr "Ga naar inhoud (Druk op Enter)"
+
+#: inc/controls/changeable-icon.php:24
+msgctxt "placeholder"
+msgid "Search Icon"
+msgstr "Zoekpictogram"
+
+#: inc/custom-header.php:35
+msgctxt "header image description"
+msgid "Default Banner"
+msgstr "Standaard Banner"
+
+#: inc/customizer.php:21
+msgid "Static Front Page"
+msgstr "Statische Voorpagina"
+
+#: inc/customizer.php:27
+msgid "Choose Post"
+msgstr "Kies Bericht"
+
+#: inc/customizer.php:43
+msgid "Choose Category"
+msgstr "Kies Categorie"
+
+#: inc/customizer.php:55
+msgid "Default Settings"
+msgstr "Standaardinstellingen"
+
+#: inc/customizer.php:56
+msgid "Default section provided by wordpress customizer."
+msgstr "Standaard sectie geleverd door WordPress Customizer."
+
+#: inc/customizer.php:84
+msgid "Show / Hide Site Title"
+msgstr "Toon / Verberg Sitenaam"
+
+#: inc/customizer.php:102
+msgid "Show / Hide Tagline"
+msgstr "Toon / Verberg Slogan"
+
+#: inc/customizer.php:114
+msgid "Logo Width"
+msgstr "Logo Breedte"
+
+#: inc/customizer.php:134
+msgid "Site Title Font Size (px)"
+msgstr "Lettergrootte van Sitenaam (px)"
+
+#: inc/customizer.php:145
+msgid "Post Settings"
+msgstr "Berichtinstellingen"
+
+#: inc/customizer.php:163
+msgid "Show / Hide Post Heading"
+msgstr "Toon / Verberg Berichtkop"
+
+#: inc/customizer.php:181
+msgid "Show / Hide Post Meta"
+msgstr "Toon / Verberg Berichtmeta"
+
+#: inc/customizer.php:199
+msgid "Show / Hide Post Image"
+msgstr "Toon / Verberg Berichtafbeelding"
+
+#: inc/customizer.php:217
+msgid "Show / Hide Post Content"
+msgstr "Toon / Verberg Berichtsinhoud"
+
+#: inc/customizer.php:231
+msgid "Display Read More Button"
+msgstr "Toon Lees Meer Knop"
+
+#: inc/customizer.php:255
+msgid "Single Post Settings"
+msgstr "Instellingen voor Enkel Bericht"
+
+#: inc/customizer.php:273
+msgid "Show / Hide Single Post Meta"
+msgstr "Toon / Verberg Meta-informatie voor Enkel Bericht"
+
+#: inc/customizer.php:291
+msgid "Show / Hide Single Post Content"
+msgstr "Toon / Verberg Inhoud voor Enkel Bericht"
+
+#: inc/customizer.php:303
+msgid "General Settings"
+msgstr "Algemene Instellingen"
+
+#: inc/customizer.php:321
+msgid "Show Scroll To Top"
+msgstr "Toon Naar Boven Scrollen"
+
+#: inc/customizer.php:333
+msgid "Scroll Top Icon"
+msgstr "Scroll naar Boven Pictogram"
+
+#: inc/customizer.php:351
+msgid "Show / Hide Preloader"
+msgstr "Toon / Verberg Preloader"
+
+#: inc/customizer.php:364
+msgid "Sidebar Heading Text Align"
+msgstr "Tekstuitlijning Zijbalkkop"
+
+#: inc/customizer.php:369
+msgid "Left"
+msgstr "Links"
+
+#: inc/customizer.php:370
+msgid "Center"
+msgstr "Centreren"
+
+#: inc/customizer.php:386
+msgid "Show Sticky Header"
+msgstr "Toon Kleefkoptekst"
+
+#: inc/customizer.php:400
+msgid "Menu Font Weight"
+msgstr "Letterdikte van Menu"
+
+#: inc/customizer.php:404
+msgid "100 - Thin"
+msgstr "100 - Dun"
+
+#: inc/customizer.php:405
+msgid "200 - Extra Light"
+msgstr "200 - Extra Licht"
+
+#: inc/customizer.php:406
+msgid "300 - Light"
+msgstr "300 - Licht"
+
+#: inc/customizer.php:407
+msgid "400 - Normal"
+msgstr "400 - Normaal"
+
+#: inc/customizer.php:408
+msgid "500 - Medium"
+msgstr "500 - Medium"
+
+#: inc/customizer.php:409
+msgid "600 - Semi Bold"
+msgstr "600 - Halfvet"
+
+#: inc/customizer.php:410
+msgid "700 - Bold"
+msgstr "700 - Vet"
+
+#: inc/customizer.php:411
+msgid "800 - Extra Bold"
+msgstr "800 - Extra Vet"
+
+#: inc/customizer.php:412
+msgid "900 - Black"
+msgstr "900 - Zwart"
+
+#: inc/customizer.php:424
+msgid "Menu Text Transform"
+msgstr "Tekstomvorming van Menu"
+
+#: inc/customizer.php:428
+msgid "None"
+msgstr "Geen"
+
+#: inc/customizer.php:429
+msgid "Capitalize"
+msgstr "Hoofdletters"
+
+#: inc/customizer.php:430
+msgid "Uppercase"
+msgstr "Hoofdletters"
+
+#: inc/customizer.php:431
+msgid "Lowercase"
+msgstr "Kleine letters"
+
+#: inc/customizer.php:439
+msgid "Header Section Settings"
+msgstr "Instellingen voor Koptekstsectie"
+
+#: inc/customizer.php:456
+msgid "Show Search Icon"
+msgstr "Toon Zoekpictogram"
+
+#: inc/customizer.php:467
+msgid "Search Icon"
+msgstr "Zoekpictogram"
+
+#: inc/customizer.php:479
+msgid "Social Media Section Settings"
+msgstr "Instellingen voor Sectie Sociale Media"
+
+#: inc/customizer.php:497
+msgid "Show Social Icon"
+msgstr "Toon Sociaal Pictogram"
+
+#: inc/customizer.php:516
+msgid "Add Facebook Link"
+msgstr "Voeg Facebook-link toe"
+
+#: inc/customizer.php:535
+msgid "Add Twitter Link"
+msgstr "Voeg Twitter-link toe"
+
+#: inc/customizer.php:554
+msgid "Add Instagram Link"
+msgstr "Voeg Instagram-link toe"
+
+#: inc/customizer.php:573
+msgid "Add Pinterest Link"
+msgstr "Voeg Pinterest-link toe"
+
+#: inc/customizer.php:592
+msgid "Add LinkedIn Link"
+msgstr "Voeg LinkedIn-link toe"
+
+#: inc/customizer.php:611
+msgid "Add YouTube Link"
+msgstr "Voeg YouTube-link toe"
+
+#: inc/customizer.php:625
+msgid "Home Page Settings"
+msgstr "Instellingen voor Startpagina"
+
+#: inc/customizer.php:626
+msgid "Customize Home Page Settings"
+msgstr "Startpagina-instellingen Aanpassen"
+
+#: inc/customizer.php:634
+msgid "Banner Section Settings"
+msgstr "Instellingen voor Bannersectie"
+
+#: inc/customizer.php:653
+msgid "Show Slider"
+msgstr "Toon Slider"
+
+#: inc/customizer.php:673
+msgid "Banner Title"
+msgstr "Bannertitel"
+
+#: inc/customizer.php:694
+msgid "Banner Content"
+msgstr "Bannerinhoud"
+
+#: inc/customizer.php:714
+msgid "Add Email"
+msgstr "Voeg E-mail Toe"
+
+#: inc/customizer.php:726
+msgid "Mail Icon"
+msgstr "E-mailpictogram"
+
+#: inc/customizer.php:745
+msgid "Add Phone"
+msgstr "Voeg Telefoon Toe"
+
+#: inc/customizer.php:756
+msgid "Phone Icon"
+msgstr "Telefoonpictogram"
+
+#: inc/customizer.php:775
+msgid "Add Banner Button URL"
+msgstr "Voeg URL van Bannerknop Toe"
+
+#: inc/customizer.php:796
+msgid "Edit Banner Image"
+msgstr "Bewerk Bannerafbeelding"
+
+#: inc/customizer.php:797
+msgid "Edit the Banner image."
+msgstr "Bewerk de bannerafbeelding."
+
+#: inc/customizer.php:806
+msgid "Blog Section"
+msgstr "Blogsectie"
+
+#: inc/customizer.php:825
+msgid "Show Blog"
+msgstr "Toon Blog"
+
+#: inc/customizer.php:841 inc/customizer.php:888
+msgid "Section Title"
+msgstr "Sectietitel"
+
+#: inc/customizer.php:869
+msgid "Select Category to Display Blogs"
+msgstr "Selecteer Categorie om Blogs Weer te Geven"
+
+#: inc/customizer.php:902
+msgid "Footer Settings"
+msgstr "Voettekst Instellingen"
+
+#: inc/customizer.php:919
+msgid "Show Footer Copyright"
+msgstr "Toon Voettekst Auteursrecht"
+
+#: inc/customizer.php:937
+msgid "Copyright Info"
+msgstr "Auteursrechtinformatie"
+
+#: inc/customizer.php:954
+msgid "Footer Background Image"
+msgstr "Achtergrondafbeelding van Voettekst"
+
+#: inc/customizer.php:955
+msgid "Recommended Size %1$s px X %2$s px"
+msgstr "Aanbevolen Grootte %1$s px X %2$s px"
+
+#: inc/customizer.php:979
+msgid "Footer Widget Area Background Color"
+msgstr "Achtergrondkleur van Voettekstwidgetgebied"
+
+#: inc/customizer.php:990
+msgid "404 Page Settings"
+msgstr "404 Pagina Instellingen"
+
+#: inc/customizer.php:1002
+msgid "404 Page Image"
+msgstr "404 Pagina Afbeelding"
+
+#: inc/customizer.php:1015 inc/customizer.php:1028
+msgid "Heading"
+msgstr "Koptekst"
+
+#: inc/extra.php:92
+msgid "&copy; "
+msgstr "&copy;"
+
+#: inc/extra.php:92
+msgid "Y"
+msgstr "J"
+
+#: inc/extra.php:93
+msgid ". All Rights Reserved."
+msgstr ". Alle Rechten Voorbehouden."
+
+#: inc/extra.php:96
+msgid " By "
+msgstr " Door "
+
+#: inc/extra.php:96
+msgid "Themeignite"
+msgstr "Themeignite"
+
+#: inc/extra.php:97
+msgid " Powered By %s"
+msgstr "Aangedreven door %s"
+
+#: inc/extra.php:97
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: inc/extra.php:129
+msgid "Name*"
+msgstr "Naam*"
+
+#: inc/extra.php:129 inc/extra.php:133
+msgid "Name"
+msgstr "Naam"
+
+#: inc/extra.php:130
+msgid "Email*"
+msgstr "E-mail*"
+
+#: inc/extra.php:130 inc/extra.php:135
+msgid "Email"
+msgstr "E-mail"
+
+#: inc/extra.php:137
+msgid "Website"
+msgstr "Website"
+
+#: inc/extra.php:150
+msgid "Comment"
+msgstr "Opmerking"
+
+#: inc/extra.php:318
+msgid "Mobile"
+msgstr "Mobiel"
+
+#: inc/getting-started/getting-started.php:52
+msgid "You will find everything you need to get started with %1$s below."
+msgstr "Je vindt hieronder alles wat je nodig hebt om te beginnen met %1$s."
+
+#: inc/getting-started/getting-started.php:73
+msgid "Free Vs Pro"
+msgstr "Gratis Versus Pro"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:15
+msgid "Theme Feature"
+msgstr "Themafunctie"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:16
+msgid "Basic Version"
+msgstr "Basisversie"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:17
+msgid "Premium Version"
+msgstr "Premiumversie"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:23
+msgid "Header Background Color"
+msgstr "Achtergrondkleur van Koptekst"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:28
+msgid "Custom Navigation Logo Or Text"
+msgstr "Aangepast Navigatielogo of Tekst"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:33
+msgid "Hide Logo Text"
+msgstr "Verberg Logotekst"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:39
+msgid "Premium Support"
+msgstr "Premiumondersteuning"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:44
+msgid "Fully SEO Optimized"
+msgstr "Volledig SEO Geoptimaliseerd"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:49
+msgid "Recent Posts Widget"
+msgstr "Widget voor Recente Berichten"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:55
+msgid "Easy Google Fonts"
+msgstr "Eenvoudige Google-lettertypen"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:60
+msgid "Pagespeed Plugin"
+msgstr "Pagespeed-plug-in"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:65
+msgid "Only Show Header Image On Front Page"
+msgstr "Toon Kopafbeelding Alleen op Startpagina"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:70
+msgid "Show Header Everywhere"
+msgstr "Toon Koptekst Overal"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:75
+msgid "Custom Text On Header Image"
+msgstr "Aangepaste Tekst op Kopafbeelding"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:80
+msgid "Full Width (Hide Sidebar)"
+msgstr "Volledige Breedte (Zijbalk Verbergen)"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:85
+msgid "Only Show Upper Widgets On Front Page"
+msgstr "Toon Alleen Bovenste Widgets op Startpagina"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:90
+msgid "Replace Copyright Text"
+msgstr "Auteursrechttekst Vervangen"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:95
+msgid "Customize Upper Widgets Colors"
+msgstr "Kleuren van Bovenste Widgets Aanpassen"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:100
+msgid "Customize Navigation Color"
+msgstr "Navigatiekleur Aanpassen"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:105
+msgid "Customize Post/Page Color"
+msgstr "Bericht/Paginakleur Aanpassen"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:110
+msgid "Customize Blog Feed Color"
+msgstr "Blogfeedkleur Aanpassen"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:115
+msgid "Customize Footer Color"
+msgstr "Voettekstkleur Aanpassen"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:120
+msgid "Customize Sidebar Color"
+msgstr "Zijbalkkleur Aanpassen"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:125
+msgid "Customize Background Color"
+msgstr "Achtergrondkleur Aanpassen"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:130
+msgid "Importable Demo Content"
+msgstr "Importeerbare Demo-inhoud"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:137 inc/getting-started/tabs/link-panel.php:23
+msgid "View Premium Version"
+msgstr "Bekijk Premiumversie"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:138
+msgid "View Pro"
+msgstr "Bekijk Pro"
+
+#: inc/getting-started/tabs/help-panel.php:12
+msgid "VISIT FREE DOCUMENTATION"
+msgstr "BEZOEK GRATIS DOCUMENTATIE"
+
+#: inc/getting-started/tabs/help-panel.php:13
+msgid ""
+"Are you a newcomer to the WordPress universe? Our comprehensive and user-friendly documentation guide "
+"is designed to assist you in effortlessly building a captivating and interactive website, even if you "
+"lack any coding expertise or prior experience. Follow our step-by-step instructions to create a "
+"visually appealing and engaging online presence."
+msgstr ""
+"Ben je nieuw in de WordPress-wereld? Onze uitgebreide en gebruiksvriendelijke documentatiegids helpt je "
+"eenvoudig een boeiende en interactieve website te bouwen, zelfs zonder programmeerkennis of eerdere "
+"ervaring. Volg onze stapsgewijze instructies om een visueel aantrekkelijke en betrokken online "
+"aanwezigheid te creëren."
+
+#: inc/getting-started/tabs/help-panel.php:14
+msgid "Visit the Documentation"
+msgstr "Bezoek de Documentatie"
+
+#: inc/getting-started/tabs/help-panel.php:15
+msgid "FREE DOCUMENTATION"
+msgstr "GRATIS DOCUMENTATIE"
+
+#: inc/getting-started/tabs/help-panel.php:20
+msgid "Review"
+msgstr "Beoordeling"
+
+#: inc/getting-started/tabs/help-panel.php:21
+msgid ""
+"If you are passionate about the Prime Portfolio Resume theme, we would love to hear your thoughts and "
+"feedback regarding our theme. Your review will be highly valuable to us as we strive to enhance and "
+"improve our theme based on the needs and preferences of our users. Your opinion matters, and we "
+"sincerely appreciate your time and effort in sharing your experience with the Prime Portfolio Resume "
+"theme."
+msgstr ""
+"Als je enthousiast bent over het Prime Portfolio Resume-thema, horen we graag je gedachten en feedback. "
+"Jouw beoordeling is van grote waarde voor ons, terwijl we proberen het thema te verbeteren op basis van "
+"de behoeften en voorkeuren van onze gebruikers. Jouw mening doet ertoe, en we waarderen je tijd en "
+"inzet om je ervaring te delen."
+
+#: inc/getting-started/tabs/help-panel.php:22
+msgid "Visit the Review"
+msgstr "Bezoek de Beoordeling"
+
+#: inc/getting-started/tabs/help-panel.php:23
+msgid "REVIEW"
+msgstr "BEOORDELING"
+
+#: inc/getting-started/tabs/help-panel.php:28 inc/getting-started/tabs/help-panel.php:32
+msgid "CONTACT SUPPORT"
+msgstr "CONTACT ONDERSTEUNING"
+
+#: inc/getting-started/tabs/help-panel.php:30
+msgid ""
+"Thank you for choosing Prime Portfolio Resume! We appreciate your interest in our theme and are here to "
+"assist you with any support you may need."
+msgstr ""
+"Bedankt dat je voor Prime Portfolio Resume hebt gekozen! We waarderen je interesse in ons thema en "
+"staan klaar om je te helpen met eventuele ondersteuning die je nodig hebt."
+
+#: inc/getting-started/tabs/help-panel.php:31
+msgid "Visit the Support"
+msgstr "Bezoek de Ondersteuning"
+
+#: inc/getting-started/tabs/link-panel.php:11
+msgid "THEME DEMO"
+msgstr "THEMA DEMO"
+
+#: inc/getting-started/tabs/link-panel.php:14
+msgid "GO PRO"
+msgstr "GA PRO"
+
+#: inc/getting-started/tabs/link-panel.php:17
+msgid "PRO DOCUMENTATION"
+msgstr "PRO DOCUMENTATIE"
+
+#: inc/getting-started/tabs/link-panel.php:21
+msgid "Upgrade To Pro"
+msgstr "Upgrade naar Pro"
+
+#: inc/getting-started/tabs/link-panel.php:24
+msgid "Read more about the features here"
+msgstr "Lees hier meer over de functies"
+
+#: inc/info.php:109
+msgid "Portfolio Resume PRO"
+msgstr "Portfolio CV PRO"
+
+#: inc/info.php:115
+msgid "Lite Documentation"
+msgstr "Lite Documentatie"
+
+#: inc/info.php:128
+msgid "Pro Available"
+msgstr "Pro Beschikbaar"
+
+#: inc/info.php:142
+msgid "For Reference"
+msgstr "Voor Referentie"
+
+#: inc/template-tags.php:88
+msgid ", "
+msgstr ", "
+
+#: inc/widget-social-links.php:26
+msgid "TI: Social Links"
+msgstr "TI: Sociale Links"
+
+#: inc/widget-social-links.php:27
+msgid "A Social Links Widget"
+msgstr "Een Widget voor Sociale Links"
+
+#: inc/widget-social-links.php:57 inc/widget-social-links.php:103
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/widget-social-links.php:59 inc/widget-social-links.php:108
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/widget-social-links.php:61 inc/widget-social-links.php:113
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/widget-social-links.php:63 inc/widget-social-links.php:118
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/widget-social-links.php:65
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: inc/widget-social-links.php:67 inc/widget-social-links.php:128
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/widget-social-links.php:69 inc/widget-social-links.php:133
+msgid "Tiktok"
+msgstr "Tiktok"
+
+#: inc/widget-social-links.php:98
+msgid "Title"
+msgstr "Titel"
+
+#: inc/widget-social-links.php:123
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/woocommerce-functions.php:42
+msgid "Shop Sidebar"
+msgstr "Winkel Zijbalk"
+
+#: inc/woocommerce-functions.php:44
+msgid "Sidebar displaying only in WooCommerce pages."
+msgstr "Zijbalk wordt alleen weergegeven op WooCommerce-pagina's."
+
+#: search.php:19
+msgid "Search Result"
+msgstr "Zoekresultaat"
+
+#: search.php:22
+msgid "Search Results for \"%s\""
+msgstr "Zoekresultaten voor \"%s\""
+
+#: sections/section-featured-banner.php:62
+msgid "READ MORE"
+msgstr "LEES MEER"
+
+#: sidebar.php:21
+msgid "Search"
+msgstr "Zoeken"
+
+#: sidebar.php:24
+msgid "Search for:"
+msgstr "Zoeken naar:"
+
+#: sidebar.php:25
+msgid "Search..."
+msgstr "Zoeken..."
+
+#. Template Name of the theme
+msgid "Home Page"
+msgstr "Startpagina"
+
+#. translators: %s: Name of current post.
+#: template-parts/content-audio.php:72 template-parts/content-gallery.php:50
+#: template-parts/content-image.php:43 template-parts/content-single.php:35
+#: template-parts/content-video.php:73 template-parts/content.php:51
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lees verder %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-audio.php:79 template-parts/content-gallery.php:57
+#: template-parts/content-image.php:50 template-parts/content-page.php:21
+#: template-parts/content-single.php:42 template-parts/content-video.php:80 template-parts/content.php:58
+msgid "Pages:"
+msgstr "Pagina's:"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Niets Gevonden"
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klaar om je eerste bericht te publiceren? <a href=\"%1$s\">Begin hier</a>."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+"Helaas, er kwamen geen resultaten overeen met je zoektermen. Probeer het opnieuw met andere zoekwoorden."
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Het lijkt erop dat we niet kunnen vinden wat je zoekt. Misschien helpt zoeken."
+
+#: template-parts/content.php:14
+msgid "Read More"
+msgstr "Lees meer"
